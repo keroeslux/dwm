@@ -1,2 +1,8 @@
 • FULLGAPS
 • BAR PADDING
+
+
+//  Other Stuff
+
+I switched the default terminal to Alacritty (my personal terminal)
+I added some keybinds
