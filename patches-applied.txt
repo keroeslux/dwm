@@ -1,6 +1,6 @@
 • FULLGAPS
 • BAR PADDING
-
+• BAR HEIGHT
 
 //  Other Stuff
 
